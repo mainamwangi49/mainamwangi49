@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mainamwangi49" target="blank"><img src="https://img.shields.io/twitter/follow/mainamwangi49?logo=twitter&style=for-the-badge" alt="mainamwangi49" /></a> </p>
 
-- 🔭 I’m currently working on **insurance claims prediction**
+- 🔭 I’m currently working on **time series forecasting**
 
 - 🌱 I’m currently learning **big data analytics**
 
